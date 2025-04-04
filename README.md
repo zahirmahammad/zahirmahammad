@@ -2,7 +2,7 @@
 
 <!-- ![Zahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahirmahammad&hide=contribs,prs&show_icons=true&theme=cobalt) -->
 
-I am Zahir, Robotics Grad Student at University of Maryland, College Park
+I am Zahir, a Robotics Grad Student at University of Maryland, College Park
 
 
 <!--
