@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<!-- ![Zahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahirmahammad&hide=contribs,prs&show_icons=true&theme=cobalt) -->
+
+I am Zahir, Robotics Grad Student at University of Maryland, College Park
+
+
 <!--
 **zahirmahammad/zahirmahammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
